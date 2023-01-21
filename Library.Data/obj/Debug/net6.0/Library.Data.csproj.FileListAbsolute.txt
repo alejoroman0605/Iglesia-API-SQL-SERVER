@@ -22,3 +22,15 @@ C:\Users\family\source\repos\MatriculasIglesia-SQL-SERVER\MatriculasIglesia-SQL-
 C:\Users\family\source\repos\MatriculasIglesia-SQL-SERVER\MatriculasIglesia-SQL-SERVER\Library.Data\obj\Debug\net6.0\Library.Data.dll
 C:\Users\family\source\repos\MatriculasIglesia-SQL-SERVER\MatriculasIglesia-SQL-SERVER\Library.Data\obj\Debug\net6.0\ref\Library.Data.dll
 C:\Users\family\source\repos\MatriculasIglesia-SQL-SERVER\MatriculasIglesia-SQL-SERVER\Library.Data\obj\Debug\net6.0\Library.Data.pdb
+D:\Alejandro\Proyectos VS Code\Digmaris\Iglesia-API-SQL-SERVER\Library.Data\bin\Debug\net6.0\Library.Data.deps.json
+D:\Alejandro\Proyectos VS Code\Digmaris\Iglesia-API-SQL-SERVER\Library.Data\bin\Debug\net6.0\Library.Data.dll
+D:\Alejandro\Proyectos VS Code\Digmaris\Iglesia-API-SQL-SERVER\Library.Data\bin\Debug\net6.0\Library.Data.pdb
+D:\Alejandro\Proyectos VS Code\Digmaris\Iglesia-API-SQL-SERVER\Library.Data\obj\Debug\net6.0\Library.Data.csproj.AssemblyReference.cache
+D:\Alejandro\Proyectos VS Code\Digmaris\Iglesia-API-SQL-SERVER\Library.Data\obj\Debug\net6.0\Library.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Alejandro\Proyectos VS Code\Digmaris\Iglesia-API-SQL-SERVER\Library.Data\obj\Debug\net6.0\Library.Data.AssemblyInfoInputs.cache
+D:\Alejandro\Proyectos VS Code\Digmaris\Iglesia-API-SQL-SERVER\Library.Data\obj\Debug\net6.0\Library.Data.AssemblyInfo.cs
+D:\Alejandro\Proyectos VS Code\Digmaris\Iglesia-API-SQL-SERVER\Library.Data\obj\Debug\net6.0\Library.Data.csproj.CoreCompileInputs.cache
+D:\Alejandro\Proyectos VS Code\Digmaris\Iglesia-API-SQL-SERVER\Library.Data\obj\Debug\net6.0\Library.Data.dll
+D:\Alejandro\Proyectos VS Code\Digmaris\Iglesia-API-SQL-SERVER\Library.Data\obj\Debug\net6.0\refint\Library.Data.dll
+D:\Alejandro\Proyectos VS Code\Digmaris\Iglesia-API-SQL-SERVER\Library.Data\obj\Debug\net6.0\Library.Data.pdb
+D:\Alejandro\Proyectos VS Code\Digmaris\Iglesia-API-SQL-SERVER\Library.Data\obj\Debug\net6.0\ref\Library.Data.dll

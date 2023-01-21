@@ -32,3 +32,20 @@ C:\Users\family\source\repos\MatriculasIglesia-SQL-SERVER\MatriculasIglesia-SQL-
 C:\Users\family\source\repos\MatriculasIglesia-SQL-SERVER\MatriculasIglesia-SQL-SERVER\Library.Service\obj\Debug\net6.0\Library.Service.dll
 C:\Users\family\source\repos\MatriculasIglesia-SQL-SERVER\MatriculasIglesia-SQL-SERVER\Library.Service\obj\Debug\net6.0\ref\Library.Service.dll
 C:\Users\family\source\repos\MatriculasIglesia-SQL-SERVER\MatriculasIglesia-SQL-SERVER\Library.Service\obj\Debug\net6.0\Library.Service.pdb
+D:\Alejandro\Proyectos VS Code\Digmaris\Iglesia-API-SQL-SERVER\Library.Service\bin\Debug\net6.0\Library.Service.deps.json
+D:\Alejandro\Proyectos VS Code\Digmaris\Iglesia-API-SQL-SERVER\Library.Service\bin\Debug\net6.0\Library.Service.dll
+D:\Alejandro\Proyectos VS Code\Digmaris\Iglesia-API-SQL-SERVER\Library.Service\bin\Debug\net6.0\Library.Service.pdb
+D:\Alejandro\Proyectos VS Code\Digmaris\Iglesia-API-SQL-SERVER\Library.Service\bin\Debug\net6.0\Library.Data.dll
+D:\Alejandro\Proyectos VS Code\Digmaris\Iglesia-API-SQL-SERVER\Library.Service\bin\Debug\net6.0\Library.Repository.dll
+D:\Alejandro\Proyectos VS Code\Digmaris\Iglesia-API-SQL-SERVER\Library.Service\bin\Debug\net6.0\Library.Data.pdb
+D:\Alejandro\Proyectos VS Code\Digmaris\Iglesia-API-SQL-SERVER\Library.Service\bin\Debug\net6.0\Library.Repository.pdb
+D:\Alejandro\Proyectos VS Code\Digmaris\Iglesia-API-SQL-SERVER\Library.Service\obj\Debug\net6.0\Library.Service.csproj.AssemblyReference.cache
+D:\Alejandro\Proyectos VS Code\Digmaris\Iglesia-API-SQL-SERVER\Library.Service\obj\Debug\net6.0\Library.Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\Alejandro\Proyectos VS Code\Digmaris\Iglesia-API-SQL-SERVER\Library.Service\obj\Debug\net6.0\Library.Service.AssemblyInfoInputs.cache
+D:\Alejandro\Proyectos VS Code\Digmaris\Iglesia-API-SQL-SERVER\Library.Service\obj\Debug\net6.0\Library.Service.AssemblyInfo.cs
+D:\Alejandro\Proyectos VS Code\Digmaris\Iglesia-API-SQL-SERVER\Library.Service\obj\Debug\net6.0\Library.Service.csproj.CoreCompileInputs.cache
+D:\Alejandro\Proyectos VS Code\Digmaris\Iglesia-API-SQL-SERVER\Library.Service\obj\Debug\net6.0\Library.Service.csproj.CopyComplete
+D:\Alejandro\Proyectos VS Code\Digmaris\Iglesia-API-SQL-SERVER\Library.Service\obj\Debug\net6.0\Library.Service.dll
+D:\Alejandro\Proyectos VS Code\Digmaris\Iglesia-API-SQL-SERVER\Library.Service\obj\Debug\net6.0\refint\Library.Service.dll
+D:\Alejandro\Proyectos VS Code\Digmaris\Iglesia-API-SQL-SERVER\Library.Service\obj\Debug\net6.0\Library.Service.pdb
+D:\Alejandro\Proyectos VS Code\Digmaris\Iglesia-API-SQL-SERVER\Library.Service\obj\Debug\net6.0\ref\Library.Service.dll

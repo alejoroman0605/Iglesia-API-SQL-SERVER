@@ -1,0 +1,333 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Alejandro\\Proyectos VS Code\\Digmaris\\Iglesia-API-SQL-SERVER\\MatriculasIglesia\\MatriculasIglesia.csproj": {}
+  },
+  "projects": {
+    "D:\\Alejandro\\Proyectos VS Code\\Digmaris\\Iglesia-API-SQL-SERVER\\Library.Data\\Library.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Alejandro\\Proyectos VS Code\\Digmaris\\Iglesia-API-SQL-SERVER\\Library.Data\\Library.Data.csproj",
+        "projectName": "Library.Data",
+        "projectPath": "D:\\Alejandro\\Proyectos VS Code\\Digmaris\\Iglesia-API-SQL-SERVER\\Library.Data\\Library.Data.csproj",
+        "packagesPath": "C:\\Users\\alejandror\\.nuget\\packages\\",
+        "outputPath": "D:\\Alejandro\\Proyectos VS Code\\Digmaris\\Iglesia-API-SQL-SERVER\\Library.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\alejandror\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.10, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Alejandro\\Proyectos VS Code\\Digmaris\\Iglesia-API-SQL-SERVER\\Library.Repository\\Library.Repository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Alejandro\\Proyectos VS Code\\Digmaris\\Iglesia-API-SQL-SERVER\\Library.Repository\\Library.Repository.csproj",
+        "projectName": "Library.Repository",
+        "projectPath": "D:\\Alejandro\\Proyectos VS Code\\Digmaris\\Iglesia-API-SQL-SERVER\\Library.Repository\\Library.Repository.csproj",
+        "packagesPath": "C:\\Users\\alejandror\\.nuget\\packages\\",
+        "outputPath": "D:\\Alejandro\\Proyectos VS Code\\Digmaris\\Iglesia-API-SQL-SERVER\\Library.Repository\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\alejandror\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\Alejandro\\Proyectos VS Code\\Digmaris\\Iglesia-API-SQL-SERVER\\Library.Data\\Library.Data.csproj": {
+                "projectPath": "D:\\Alejandro\\Proyectos VS Code\\Digmaris\\Iglesia-API-SQL-SERVER\\Library.Data\\Library.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Alejandro\\Proyectos VS Code\\Digmaris\\Iglesia-API-SQL-SERVER\\Library.Service\\Library.Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Alejandro\\Proyectos VS Code\\Digmaris\\Iglesia-API-SQL-SERVER\\Library.Service\\Library.Service.csproj",
+        "projectName": "Library.Service",
+        "projectPath": "D:\\Alejandro\\Proyectos VS Code\\Digmaris\\Iglesia-API-SQL-SERVER\\Library.Service\\Library.Service.csproj",
+        "packagesPath": "C:\\Users\\alejandror\\.nuget\\packages\\",
+        "outputPath": "D:\\Alejandro\\Proyectos VS Code\\Digmaris\\Iglesia-API-SQL-SERVER\\Library.Service\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\alejandror\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\Alejandro\\Proyectos VS Code\\Digmaris\\Iglesia-API-SQL-SERVER\\Library.Data\\Library.Data.csproj": {
+                "projectPath": "D:\\Alejandro\\Proyectos VS Code\\Digmaris\\Iglesia-API-SQL-SERVER\\Library.Data\\Library.Data.csproj"
+              },
+              "D:\\Alejandro\\Proyectos VS Code\\Digmaris\\Iglesia-API-SQL-SERVER\\Library.Repository\\Library.Repository.csproj": {
+                "projectPath": "D:\\Alejandro\\Proyectos VS Code\\Digmaris\\Iglesia-API-SQL-SERVER\\Library.Repository\\Library.Repository.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Mvc.Core": {
+              "target": "Package",
+              "version": "[2.2.5, )"
+            },
+            "Microsoft.AspNetCore.NodeServices": {
+              "target": "Package",
+              "version": "[3.1.29, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Alejandro\\Proyectos VS Code\\Digmaris\\Iglesia-API-SQL-SERVER\\MatriculasIglesia\\MatriculasIglesia.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Alejandro\\Proyectos VS Code\\Digmaris\\Iglesia-API-SQL-SERVER\\MatriculasIglesia\\MatriculasIglesia.csproj",
+        "projectName": "MatriculasIglesia",
+        "projectPath": "D:\\Alejandro\\Proyectos VS Code\\Digmaris\\Iglesia-API-SQL-SERVER\\MatriculasIglesia\\MatriculasIglesia.csproj",
+        "packagesPath": "C:\\Users\\alejandror\\.nuget\\packages\\",
+        "outputPath": "D:\\Alejandro\\Proyectos VS Code\\Digmaris\\Iglesia-API-SQL-SERVER\\MatriculasIglesia\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\alejandror\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\Alejandro\\Proyectos VS Code\\Digmaris\\Iglesia-API-SQL-SERVER\\Library.Data\\Library.Data.csproj": {
+                "projectPath": "D:\\Alejandro\\Proyectos VS Code\\Digmaris\\Iglesia-API-SQL-SERVER\\Library.Data\\Library.Data.csproj"
+              },
+              "D:\\Alejandro\\Proyectos VS Code\\Digmaris\\Iglesia-API-SQL-SERVER\\Library.Service\\Library.Service.csproj": {
+                "projectPath": "D:\\Alejandro\\Proyectos VS Code\\Digmaris\\Iglesia-API-SQL-SERVER\\Library.Service\\Library.Service.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[12.0.0, )"
+            },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[11.0.0, )"
+            },
+            "DinkToPdf": {
+              "target": "Package",
+              "version": "[1.0.8, )"
+            },
+            "FluentValidation.AspNetCore": {
+              "target": "Package",
+              "version": "[11.0.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.10, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[6.0.10, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.2.3, )"
+            },
+            "System.Configuration.ConfigurationManager": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
