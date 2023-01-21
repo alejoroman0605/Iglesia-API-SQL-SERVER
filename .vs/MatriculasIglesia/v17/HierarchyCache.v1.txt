@@ -1,0 +1,407 @@
+﻿++Solution 'MatriculasIglesia' ‎(4 of 4 projects)
+i:{00000000-0000-0000-0000-000000000000}:MatriculasIglesia.sln
+++MatriculasIglesia
+i:{00000000-0000-0000-0000-000000000000}:MatriculasIglesia
+++Connected Services 
+i:{94f15be5-a07d-4b46-9b18-c2aff5b41f80}:>1162
+++Dependencies
+i:{94f15be5-a07d-4b46-9b18-c2aff5b41f80}:>1161
+i:{ba63cfa2-b09e-44e6-a9c8-4e627f543e5f}:>762
+i:{822d27b4-34de-4468-903d-6af5186dd7aa}:>764
+i:{69c58e0a-4c96-43c2-a7c1-e1742ffb0113}:>763
+++Properties
+i:{94f15be5-a07d-4b46-9b18-c2aff5b41f80}:c:\users\family\source\repos\matriculasiglesia-sql-server\matriculasiglesia-sql-server\matriculasiglesia\properties\
+++assets
+i:{94f15be5-a07d-4b46-9b18-c2aff5b41f80}:c:\users\family\source\repos\matriculasiglesia-sql-server\matriculasiglesia-sql-server\matriculasiglesia\assets\
+++Controllers
+i:{94f15be5-a07d-4b46-9b18-c2aff5b41f80}:c:\users\family\source\repos\matriculasiglesia-sql-server\matriculasiglesia-sql-server\matriculasiglesia\controllers\
+++Dtos
+i:{94f15be5-a07d-4b46-9b18-c2aff5b41f80}:c:\users\family\source\repos\matriculasiglesia-sql-server\matriculasiglesia-sql-server\matriculasiglesia\dtos\
+++Actividades
+i:{94f15be5-a07d-4b46-9b18-c2aff5b41f80}:c:\users\family\source\repos\matriculasiglesia-sql-server\matriculasiglesia-sql-server\matriculasiglesia\dtos\actividades\
+++Iglesias
+i:{94f15be5-a07d-4b46-9b18-c2aff5b41f80}:c:\users\family\source\repos\matriculasiglesia-sql-server\matriculasiglesia-sql-server\matriculasiglesia\dtos\iglesias\
+i:{94f15be5-a07d-4b46-9b18-c2aff5b41f80}:c:\users\family\source\repos\matriculasiglesia-sql-server\matriculasiglesia-sql-server\matriculasiglesia\mapper\iglesias\
+++Matriculas
+i:{94f15be5-a07d-4b46-9b18-c2aff5b41f80}:c:\users\family\source\repos\matriculasiglesia-sql-server\matriculasiglesia-sql-server\matriculasiglesia\dtos\matriculas\
+++Participaciones
+i:{94f15be5-a07d-4b46-9b18-c2aff5b41f80}:c:\users\family\source\repos\matriculasiglesia-sql-server\matriculasiglesia-sql-server\matriculasiglesia\dtos\participaciones\
+++Personas
+i:{94f15be5-a07d-4b46-9b18-c2aff5b41f80}:c:\users\family\source\repos\matriculasiglesia-sql-server\matriculasiglesia-sql-server\matriculasiglesia\dtos\personas\
+++CreateEditNinoDto.cs
+i:{94f15be5-a07d-4b46-9b18-c2aff5b41f80}:c:\users\family\source\repos\matriculasiglesia-sql-server\matriculasiglesia-sql-server\matriculasiglesia\dtos\personas\createeditninodto.cs
+++CreateEditPersonaDto.cs
+i:{94f15be5-a07d-4b46-9b18-c2aff5b41f80}:c:\users\family\source\repos\matriculasiglesia-sql-server\matriculasiglesia-sql-server\matriculasiglesia\dtos\personas\createeditpersonadto.cs
+++CreateEditPersonaMayorDto.cs
+i:{94f15be5-a07d-4b46-9b18-c2aff5b41f80}:c:\users\family\source\repos\matriculasiglesia-sql-server\matriculasiglesia-sql-server\matriculasiglesia\dtos\personas\createeditpersonamayordto.cs
+++NinoDto.cs
+i:{94f15be5-a07d-4b46-9b18-c2aff5b41f80}:c:\users\family\source\repos\matriculasiglesia-sql-server\matriculasiglesia-sql-server\matriculasiglesia\dtos\personas\ninodto.cs
+++PersonaDto.cs
+i:{94f15be5-a07d-4b46-9b18-c2aff5b41f80}:c:\users\family\source\repos\matriculasiglesia-sql-server\matriculasiglesia-sql-server\matriculasiglesia\dtos\personas\personadto.cs
+++PersonaMayorDto.cs
+i:{94f15be5-a07d-4b46-9b18-c2aff5b41f80}:c:\users\family\source\repos\matriculasiglesia-sql-server\matriculasiglesia-sql-server\matriculasiglesia\dtos\personas\personamayordto.cs
+++Proyectos
+i:{94f15be5-a07d-4b46-9b18-c2aff5b41f80}:c:\users\family\source\repos\matriculasiglesia-sql-server\matriculasiglesia-sql-server\matriculasiglesia\dtos\proyectos\
+++EntityBaseDto.cs
+i:{94f15be5-a07d-4b46-9b18-c2aff5b41f80}:c:\users\family\source\repos\matriculasiglesia-sql-server\matriculasiglesia-sql-server\matriculasiglesia\dtos\entitybasedto.cs
+++EstadisticaDto.cs
+i:{94f15be5-a07d-4b46-9b18-c2aff5b41f80}:c:\users\family\source\repos\matriculasiglesia-sql-server\matriculasiglesia-sql-server\matriculasiglesia\dtos\estadisticadto.cs
+++PagedListInputDto.cs
+i:{94f15be5-a07d-4b46-9b18-c2aff5b41f80}:c:\users\family\source\repos\matriculasiglesia-sql-server\matriculasiglesia-sql-server\matriculasiglesia\dtos\pagedlistinputdto.cs
+++PagedResultDto.cs
+i:{94f15be5-a07d-4b46-9b18-c2aff5b41f80}:c:\users\family\source\repos\matriculasiglesia-sql-server\matriculasiglesia-sql-server\matriculasiglesia\dtos\pagedresultdto.cs
+++IoC
+i:{94f15be5-a07d-4b46-9b18-c2aff5b41f80}:c:\users\family\source\repos\matriculasiglesia-sql-server\matriculasiglesia-sql-server\matriculasiglesia\ioc\
+++Mapper
+i:{94f15be5-a07d-4b46-9b18-c2aff5b41f80}:c:\users\family\source\repos\matriculasiglesia-sql-server\matriculasiglesia-sql-server\matriculasiglesia\mapper\
+++IglesiaToCreateDto.cs
+i:{94f15be5-a07d-4b46-9b18-c2aff5b41f80}:c:\users\family\source\repos\matriculasiglesia-sql-server\matriculasiglesia-sql-server\matriculasiglesia\mapper\iglesias\iglesiatocreatedto.cs
+++IglesiaToDto.cs
+i:{94f15be5-a07d-4b46-9b18-c2aff5b41f80}:c:\users\family\source\repos\matriculasiglesia-sql-server\matriculasiglesia-sql-server\matriculasiglesia\mapper\iglesias\iglesiatodto.cs
+++IglesiaToEditDto.cs
+i:{94f15be5-a07d-4b46-9b18-c2aff5b41f80}:c:\users\family\source\repos\matriculasiglesia-sql-server\matriculasiglesia-sql-server\matriculasiglesia\mapper\iglesias\iglesiatoeditdto.cs
+++MappingProfile.cs
+i:{94f15be5-a07d-4b46-9b18-c2aff5b41f80}:c:\users\family\source\repos\matriculasiglesia-sql-server\matriculasiglesia-sql-server\matriculasiglesia\mapper\mappingprofile.cs
+++Validators
+i:{94f15be5-a07d-4b46-9b18-c2aff5b41f80}:c:\users\family\source\repos\matriculasiglesia-sql-server\matriculasiglesia-sql-server\matriculasiglesia\validators\
+++appsettings.json
+i:{94f15be5-a07d-4b46-9b18-c2aff5b41f80}:c:\users\family\source\repos\matriculasiglesia-sql-server\matriculasiglesia-sql-server\matriculasiglesia\appsettings.json
+++libwkhtmltox.dll
+i:{94f15be5-a07d-4b46-9b18-c2aff5b41f80}:c:\users\family\source\repos\matriculasiglesia-sql-server\matriculasiglesia-sql-server\matriculasiglesia\libwkhtmltox.dll
+++libwkhtmltox.dylib
+i:{94f15be5-a07d-4b46-9b18-c2aff5b41f80}:c:\users\family\source\repos\matriculasiglesia-sql-server\matriculasiglesia-sql-server\matriculasiglesia\libwkhtmltox.dylib
+++libwkhtmltox.so
+i:{94f15be5-a07d-4b46-9b18-c2aff5b41f80}:c:\users\family\source\repos\matriculasiglesia-sql-server\matriculasiglesia-sql-server\matriculasiglesia\libwkhtmltox.so
+++Program.cs
+i:{94f15be5-a07d-4b46-9b18-c2aff5b41f80}:c:\users\family\source\repos\matriculasiglesia-sql-server\matriculasiglesia-sql-server\matriculasiglesia\program.cs
+++TemplateGenerator.cs
+i:{94f15be5-a07d-4b46-9b18-c2aff5b41f80}:c:\users\family\source\repos\matriculasiglesia-sql-server\matriculasiglesia-sql-server\matriculasiglesia\templategenerator.cs
+++No service dependencies discovered
+i:{94f15be5-a07d-4b46-9b18-c2aff5b41f80}:>1163
+++Analyzers
+i:{94f15be5-a07d-4b46-9b18-c2aff5b41f80}:analyzers
+i:{ba63cfa2-b09e-44e6-a9c8-4e627f543e5f}:analyzers
+i:{822d27b4-34de-4468-903d-6af5186dd7aa}:analyzers
+i:{69c58e0a-4c96-43c2-a7c1-e1742ffb0113}:analyzers
+++Frameworks
+i:{94f15be5-a07d-4b46-9b18-c2aff5b41f80}:frameworks
+i:{ba63cfa2-b09e-44e6-a9c8-4e627f543e5f}:frameworks
+i:{822d27b4-34de-4468-903d-6af5186dd7aa}:frameworks
+i:{69c58e0a-4c96-43c2-a7c1-e1742ffb0113}:frameworks
+++Packages
+i:{94f15be5-a07d-4b46-9b18-c2aff5b41f80}:packages
+i:{ba63cfa2-b09e-44e6-a9c8-4e627f543e5f}:packages
+i:{69c58e0a-4c96-43c2-a7c1-e1742ffb0113}:packages
+++Projects
+i:{94f15be5-a07d-4b46-9b18-c2aff5b41f80}:projects
+i:{822d27b4-34de-4468-903d-6af5186dd7aa}:projects
+i:{69c58e0a-4c96-43c2-a7c1-e1742ffb0113}:projects
+++launchSettings.json
+i:{94f15be5-a07d-4b46-9b18-c2aff5b41f80}:c:\users\family\source\repos\matriculasiglesia-sql-server\matriculasiglesia-sql-server\matriculasiglesia\properties\launchsettings.json
+++style.css
+i:{94f15be5-a07d-4b46-9b18-c2aff5b41f80}:c:\users\family\source\repos\matriculasiglesia-sql-server\matriculasiglesia-sql-server\matriculasiglesia\assets\style.css
+++EndPointBase
+i:{94f15be5-a07d-4b46-9b18-c2aff5b41f80}:c:\users\family\source\repos\matriculasiglesia-sql-server\matriculasiglesia-sql-server\matriculasiglesia\controllers\endpointbase\
+++ActividadController.cs
+i:{94f15be5-a07d-4b46-9b18-c2aff5b41f80}:c:\users\family\source\repos\matriculasiglesia-sql-server\matriculasiglesia-sql-server\matriculasiglesia\controllers\actividadcontroller.cs
+++DashBoardController.cs
+i:{94f15be5-a07d-4b46-9b18-c2aff5b41f80}:c:\users\family\source\repos\matriculasiglesia-sql-server\matriculasiglesia-sql-server\matriculasiglesia\controllers\dashboardcontroller.cs
+++GradoEscolarController.cs
+i:{94f15be5-a07d-4b46-9b18-c2aff5b41f80}:c:\users\family\source\repos\matriculasiglesia-sql-server\matriculasiglesia-sql-server\matriculasiglesia\controllers\gradoescolarcontroller.cs
+++HorariosController.cs
+i:{94f15be5-a07d-4b46-9b18-c2aff5b41f80}:c:\users\family\source\repos\matriculasiglesia-sql-server\matriculasiglesia-sql-server\matriculasiglesia\controllers\horarioscontroller.cs
+++IglesiaController.cs
+i:{94f15be5-a07d-4b46-9b18-c2aff5b41f80}:c:\users\family\source\repos\matriculasiglesia-sql-server\matriculasiglesia-sql-server\matriculasiglesia\controllers\iglesiacontroller.cs
+++MatriculasController.cs
+i:{94f15be5-a07d-4b46-9b18-c2aff5b41f80}:c:\users\family\source\repos\matriculasiglesia-sql-server\matriculasiglesia-sql-server\matriculasiglesia\controllers\matriculascontroller.cs
+++MunicipioController.cs
+i:{94f15be5-a07d-4b46-9b18-c2aff5b41f80}:c:\users\family\source\repos\matriculasiglesia-sql-server\matriculasiglesia-sql-server\matriculasiglesia\controllers\municipiocontroller.cs
+++NinosController.cs
+i:{94f15be5-a07d-4b46-9b18-c2aff5b41f80}:c:\users\family\source\repos\matriculasiglesia-sql-server\matriculasiglesia-sql-server\matriculasiglesia\controllers\ninoscontroller.cs
+++ParticipacionController.cs
+i:{94f15be5-a07d-4b46-9b18-c2aff5b41f80}:c:\users\family\source\repos\matriculasiglesia-sql-server\matriculasiglesia-sql-server\matriculasiglesia\controllers\participacioncontroller.cs
+++PersonaMayorController.cs
+i:{94f15be5-a07d-4b46-9b18-c2aff5b41f80}:c:\users\family\source\repos\matriculasiglesia-sql-server\matriculasiglesia-sql-server\matriculasiglesia\controllers\personamayorcontroller.cs
+++ProvinciaController.cs
+i:{94f15be5-a07d-4b46-9b18-c2aff5b41f80}:c:\users\family\source\repos\matriculasiglesia-sql-server\matriculasiglesia-sql-server\matriculasiglesia\controllers\provinciacontroller.cs
+++ProyectosController.cs
+i:{94f15be5-a07d-4b46-9b18-c2aff5b41f80}:c:\users\family\source\repos\matriculasiglesia-sql-server\matriculasiglesia-sql-server\matriculasiglesia\controllers\proyectoscontroller.cs
+++TipoActividadController.cs
+i:{94f15be5-a07d-4b46-9b18-c2aff5b41f80}:c:\users\family\source\repos\matriculasiglesia-sql-server\matriculasiglesia-sql-server\matriculasiglesia\controllers\tipoactividadcontroller.cs
+++ActividadDto.cs
+i:{94f15be5-a07d-4b46-9b18-c2aff5b41f80}:c:\users\family\source\repos\matriculasiglesia-sql-server\matriculasiglesia-sql-server\matriculasiglesia\dtos\actividades\actividaddto.cs
+++CreateEditActividadDto.cs
+i:{94f15be5-a07d-4b46-9b18-c2aff5b41f80}:c:\users\family\source\repos\matriculasiglesia-sql-server\matriculasiglesia-sql-server\matriculasiglesia\dtos\actividades\createeditactividaddto.cs
+++CreateIglesiaDto.cs
+i:{94f15be5-a07d-4b46-9b18-c2aff5b41f80}:c:\users\family\source\repos\matriculasiglesia-sql-server\matriculasiglesia-sql-server\matriculasiglesia\dtos\iglesias\createiglesiadto.cs
+++EditIglesiaDto.cs
+i:{94f15be5-a07d-4b46-9b18-c2aff5b41f80}:c:\users\family\source\repos\matriculasiglesia-sql-server\matriculasiglesia-sql-server\matriculasiglesia\dtos\iglesias\editiglesiadto.cs
+++IglesiaDto.cs
+i:{94f15be5-a07d-4b46-9b18-c2aff5b41f80}:c:\users\family\source\repos\matriculasiglesia-sql-server\matriculasiglesia-sql-server\matriculasiglesia\dtos\iglesias\iglesiadto.cs
+++CreateEditMatriculaDto.cs
+i:{94f15be5-a07d-4b46-9b18-c2aff5b41f80}:c:\users\family\source\repos\matriculasiglesia-sql-server\matriculasiglesia-sql-server\matriculasiglesia\dtos\matriculas\createeditmatriculadto.cs
+++MatriculaDto.cs
+i:{94f15be5-a07d-4b46-9b18-c2aff5b41f80}:c:\users\family\source\repos\matriculasiglesia-sql-server\matriculasiglesia-sql-server\matriculasiglesia\dtos\matriculas\matriculadto.cs
+++CreateEditParticipacionDto.cs
+i:{94f15be5-a07d-4b46-9b18-c2aff5b41f80}:c:\users\family\source\repos\matriculasiglesia-sql-server\matriculasiglesia-sql-server\matriculasiglesia\dtos\participaciones\createeditparticipaciondto.cs
+++ParticipacionDto.cs
+i:{94f15be5-a07d-4b46-9b18-c2aff5b41f80}:c:\users\family\source\repos\matriculasiglesia-sql-server\matriculasiglesia-sql-server\matriculasiglesia\dtos\participaciones\participaciondto.cs
+++CreateEditProyectoDto.cs
+i:{94f15be5-a07d-4b46-9b18-c2aff5b41f80}:c:\users\family\source\repos\matriculasiglesia-sql-server\matriculasiglesia-sql-server\matriculasiglesia\dtos\proyectos\createeditproyectodto.cs
+++ProyectoDto.cs
+i:{94f15be5-a07d-4b46-9b18-c2aff5b41f80}:c:\users\family\source\repos\matriculasiglesia-sql-server\matriculasiglesia-sql-server\matriculasiglesia\dtos\proyectos\proyectodto.cs
+++IoCRegister.cs
+i:{94f15be5-a07d-4b46-9b18-c2aff5b41f80}:c:\users\family\source\repos\matriculasiglesia-sql-server\matriculasiglesia-sql-server\matriculasiglesia\ioc\iocregister.cs
+++CreateEditMatriculaValid.cs
+i:{94f15be5-a07d-4b46-9b18-c2aff5b41f80}:c:\users\family\source\repos\matriculasiglesia-sql-server\matriculasiglesia-sql-server\matriculasiglesia\validators\createeditmatriculavalid.cs
+++appsettings.Development.json
+i:{94f15be5-a07d-4b46-9b18-c2aff5b41f80}:c:\users\family\source\repos\matriculasiglesia-sql-server\matriculasiglesia-sql-server\matriculasiglesia\appsettings.development.json
+++MessagePackAnalyzer
+i:{94f15be5-a07d-4b46-9b18-c2aff5b41f80}:c:\users\family\.nuget\packages\messagepackanalyzer\2.1.152\analyzers\dotnet\messagepackanalyzer.dll
+++Microsoft.AspNetCore.Analyzers
+i:{94f15be5-a07d-4b46-9b18-c2aff5b41f80}:c:\program files\dotnet\sdk\6.0.111\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+++Microsoft.AspNetCore.App.Analyzers
+i:{94f15be5-a07d-4b46-9b18-c2aff5b41f80}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.11\analyzers\dotnet\cs\microsoft.aspnetcore.app.analyzers.dll
+i:{69c58e0a-4c96-43c2-a7c1-e1742ffb0113}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.11\analyzers\dotnet\cs\microsoft.aspnetcore.app.analyzers.dll
+++Microsoft.AspNetCore.App.CodeFixes
+i:{94f15be5-a07d-4b46-9b18-c2aff5b41f80}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.11\analyzers\dotnet\cs\microsoft.aspnetcore.app.codefixes.dll
+i:{69c58e0a-4c96-43c2-a7c1-e1742ffb0113}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.11\analyzers\dotnet\cs\microsoft.aspnetcore.app.codefixes.dll
+++Microsoft.AspNetCore.Components.Analyzers
+i:{94f15be5-a07d-4b46-9b18-c2aff5b41f80}:c:\program files\dotnet\sdk\6.0.111\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+++Microsoft.AspNetCore.Mvc.Analyzers
+i:{94f15be5-a07d-4b46-9b18-c2aff5b41f80}:c:\program files\dotnet\sdk\6.0.111\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+++Microsoft.AspNetCore.Razor.Internal.SourceGenerator.Transport
+i:{94f15be5-a07d-4b46-9b18-c2aff5b41f80}:c:\program files\dotnet\sdk\6.0.111\sdks\microsoft.net.sdk.razor\source-generators\microsoft.aspnetcore.razor.internal.sourcegenerator.transport.dll
+++Microsoft.CodeAnalysis.Analyzers
+i:{94f15be5-a07d-4b46-9b18-c2aff5b41f80}:c:\users\family\.nuget\packages\microsoft.codeanalysis.analyzers\3.3.2\analyzers\dotnet\cs\microsoft.codeanalysis.analyzers.dll
+++Microsoft.CodeAnalysis.CSharp.Analyzers
+i:{94f15be5-a07d-4b46-9b18-c2aff5b41f80}:c:\users\family\.nuget\packages\microsoft.codeanalysis.analyzers\3.3.2\analyzers\dotnet\cs\microsoft.codeanalysis.csharp.analyzers.dll
+++Microsoft.CodeAnalysis.CSharp.NetAnalyzers
+i:{94f15be5-a07d-4b46-9b18-c2aff5b41f80}:c:\program files\dotnet\sdk\6.0.111\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{ba63cfa2-b09e-44e6-a9c8-4e627f543e5f}:c:\program files\dotnet\sdk\6.0.111\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{822d27b4-34de-4468-903d-6af5186dd7aa}:c:\program files\dotnet\sdk\6.0.111\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{69c58e0a-4c96-43c2-a7c1-e1742ffb0113}:c:\program files\dotnet\sdk\6.0.111\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+++Microsoft.CodeAnalysis.NetAnalyzers
+i:{94f15be5-a07d-4b46-9b18-c2aff5b41f80}:c:\program files\dotnet\sdk\6.0.111\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{ba63cfa2-b09e-44e6-a9c8-4e627f543e5f}:c:\program files\dotnet\sdk\6.0.111\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{822d27b4-34de-4468-903d-6af5186dd7aa}:c:\program files\dotnet\sdk\6.0.111\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{69c58e0a-4c96-43c2-a7c1-e1742ffb0113}:c:\program files\dotnet\sdk\6.0.111\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+++Microsoft.EntityFrameworkCore.Analyzers
+i:{94f15be5-a07d-4b46-9b18-c2aff5b41f80}:c:\users\family\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.10\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+i:{ba63cfa2-b09e-44e6-a9c8-4e627f543e5f}:c:\users\family\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.10\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+i:{822d27b4-34de-4468-903d-6af5186dd7aa}:c:\users\family\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.10\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+i:{69c58e0a-4c96-43c2-a7c1-e1742ffb0113}:c:\users\family\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.10\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+++Microsoft.Extensions.Logging.Generators
+i:{94f15be5-a07d-4b46-9b18-c2aff5b41f80}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.11\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+i:{ba63cfa2-b09e-44e6-a9c8-4e627f543e5f}:c:\users\family\.nuget\packages\microsoft.extensions.logging.abstractions\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+i:{822d27b4-34de-4468-903d-6af5186dd7aa}:c:\users\family\.nuget\packages\microsoft.extensions.logging.abstractions\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+i:{69c58e0a-4c96-43c2-a7c1-e1742ffb0113}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.11\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+++Microsoft.NET.Sdk.Razor.SourceGenerators
+i:{94f15be5-a07d-4b46-9b18-c2aff5b41f80}:c:\program files\dotnet\sdk\6.0.111\sdks\microsoft.net.sdk.razor\source-generators\microsoft.net.sdk.razor.sourcegenerators.dll
+++System.Text.Json.SourceGeneration
+i:{94f15be5-a07d-4b46-9b18-c2aff5b41f80}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.11\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{ba63cfa2-b09e-44e6-a9c8-4e627f543e5f}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.11\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{822d27b4-34de-4468-903d-6af5186dd7aa}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.11\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{69c58e0a-4c96-43c2-a7c1-e1742ffb0113}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.11\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+++Microsoft.AspNetCore.App
+i:{94f15be5-a07d-4b46-9b18-c2aff5b41f80}:c:\users\family\source\repos\matriculasiglesia-sql-server\matriculasiglesia-sql-server\matriculasiglesia\microsoft.aspnetcore.app
+++Microsoft.NETCore.App
+i:{94f15be5-a07d-4b46-9b18-c2aff5b41f80}:c:\users\family\source\repos\matriculasiglesia-sql-server\matriculasiglesia-sql-server\matriculasiglesia\microsoft.netcore.app
+i:{ba63cfa2-b09e-44e6-a9c8-4e627f543e5f}:c:\users\family\source\repos\matriculasiglesia-sql-server\matriculasiglesia-sql-server\library.data\microsoft.netcore.app
+i:{822d27b4-34de-4468-903d-6af5186dd7aa}:c:\users\family\source\repos\matriculasiglesia-sql-server\matriculasiglesia-sql-server\library.repository\microsoft.netcore.app
+i:{69c58e0a-4c96-43c2-a7c1-e1742ffb0113}:c:\users\family\source\repos\matriculasiglesia-sql-server\matriculasiglesia-sql-server\library.service\microsoft.netcore.app
+++AutoMapper (12.0.0)
+++AutoMapper.Extensions.Microsoft.DependencyInjection (11.0.0)
+i:{94f15be5-a07d-4b46-9b18-c2aff5b41f80}:>1223
+++DinkToPdf (1.0.8)
+i:{94f15be5-a07d-4b46-9b18-c2aff5b41f80}:>1227
+++FluentValidation.AspNetCore (11.0.2)
+i:{94f15be5-a07d-4b46-9b18-c2aff5b41f80}:>1225
+++Microsoft.EntityFrameworkCore.SqlServer (6.0.10)
+i:{94f15be5-a07d-4b46-9b18-c2aff5b41f80}:>1217
+i:{ba63cfa2-b09e-44e6-a9c8-4e627f543e5f}:>1222
+++Microsoft.EntityFrameworkCore.Tools (6.0.10)
+i:{94f15be5-a07d-4b46-9b18-c2aff5b41f80}:>1229
+++Microsoft.VisualStudio.Web.CodeGeneration.Design (6.0.10)
+i:{94f15be5-a07d-4b46-9b18-c2aff5b41f80}:>1230
+++Swashbuckle.AspNetCore (6.2.3)
+++System.Configuration.ConfigurationManager (6.0.0)
+i:{94f15be5-a07d-4b46-9b18-c2aff5b41f80}:>1226
+++Library.Data
+i:{94f15be5-a07d-4b46-9b18-c2aff5b41f80}:c:\users\family\source\repos\matriculasiglesia-sql-server\matriculasiglesia-sql-server\library.data\bin\debug\net6.0\library.data.dll
+i:{00000000-0000-0000-0000-000000000000}:Library.Data
+i:{822d27b4-34de-4468-903d-6af5186dd7aa}:c:\users\family\source\repos\matriculasiglesia-sql-server\matriculasiglesia-sql-server\library.data\bin\debug\net6.0\library.data.dll
+i:{69c58e0a-4c96-43c2-a7c1-e1742ffb0113}:c:\users\family\source\repos\matriculasiglesia-sql-server\matriculasiglesia-sql-server\library.data\bin\debug\net6.0\library.data.dll
+++Library.Service
+i:{94f15be5-a07d-4b46-9b18-c2aff5b41f80}:c:\users\family\source\repos\matriculasiglesia-sql-server\matriculasiglesia-sql-server\library.service\bin\debug\net6.0\library.service.dll
+i:{00000000-0000-0000-0000-000000000000}:Library.Service
+++EndpointControllerBase.cs
+i:{94f15be5-a07d-4b46-9b18-c2aff5b41f80}:c:\users\family\source\repos\matriculasiglesia-sql-server\matriculasiglesia-sql-server\matriculasiglesia\controllers\endpointbase\endpointcontrollerbase.cs
+++DataDBContext
+i:{ba63cfa2-b09e-44e6-a9c8-4e627f543e5f}:c:\users\family\source\repos\matriculasiglesia-sql-server\matriculasiglesia-sql-server\library.data\datadbcontext\
+++DataContext.cs
+i:{ba63cfa2-b09e-44e6-a9c8-4e627f543e5f}:c:\users\family\source\repos\matriculasiglesia-sql-server\matriculasiglesia-sql-server\library.data\datadbcontext\datacontext.cs
+++ModelBuilder.cs
+i:{ba63cfa2-b09e-44e6-a9c8-4e627f543e5f}:c:\users\family\source\repos\matriculasiglesia-sql-server\matriculasiglesia-sql-server\library.data\datadbcontext\modelbuilder.cs
+++Enums
+i:{ba63cfa2-b09e-44e6-a9c8-4e627f543e5f}:c:\users\family\source\repos\matriculasiglesia-sql-server\matriculasiglesia-sql-server\library.data\enums\
+++Migrations
+i:{ba63cfa2-b09e-44e6-a9c8-4e627f543e5f}:c:\users\family\source\repos\matriculasiglesia-sql-server\matriculasiglesia-sql-server\library.data\migrations\
+++Models
+i:{ba63cfa2-b09e-44e6-a9c8-4e627f543e5f}:c:\users\family\source\repos\matriculasiglesia-sql-server\matriculasiglesia-sql-server\library.data\models\
+++Actividad.cs
+i:{ba63cfa2-b09e-44e6-a9c8-4e627f543e5f}:c:\users\family\source\repos\matriculasiglesia-sql-server\matriculasiglesia-sql-server\library.data\models\actividad.cs
+++EntityBase.cs
+i:{ba63cfa2-b09e-44e6-a9c8-4e627f543e5f}:c:\users\family\source\repos\matriculasiglesia-sql-server\matriculasiglesia-sql-server\library.data\models\entitybase.cs
+++GradoEscolar.cs
+i:{ba63cfa2-b09e-44e6-a9c8-4e627f543e5f}:c:\users\family\source\repos\matriculasiglesia-sql-server\matriculasiglesia-sql-server\library.data\models\gradoescolar.cs
+++Horario.cs
+i:{ba63cfa2-b09e-44e6-a9c8-4e627f543e5f}:c:\users\family\source\repos\matriculasiglesia-sql-server\matriculasiglesia-sql-server\library.data\models\horario.cs
+++Iglesia.cs
+i:{ba63cfa2-b09e-44e6-a9c8-4e627f543e5f}:c:\users\family\source\repos\matriculasiglesia-sql-server\matriculasiglesia-sql-server\library.data\models\iglesia.cs
+++Matricula.cs
+i:{ba63cfa2-b09e-44e6-a9c8-4e627f543e5f}:c:\users\family\source\repos\matriculasiglesia-sql-server\matriculasiglesia-sql-server\library.data\models\matricula.cs
+++Municipio.cs
+i:{ba63cfa2-b09e-44e6-a9c8-4e627f543e5f}:c:\users\family\source\repos\matriculasiglesia-sql-server\matriculasiglesia-sql-server\library.data\models\municipio.cs
+++Nino.cs
+i:{ba63cfa2-b09e-44e6-a9c8-4e627f543e5f}:c:\users\family\source\repos\matriculasiglesia-sql-server\matriculasiglesia-sql-server\library.data\models\nino.cs
+++Participacion.cs
+i:{ba63cfa2-b09e-44e6-a9c8-4e627f543e5f}:c:\users\family\source\repos\matriculasiglesia-sql-server\matriculasiglesia-sql-server\library.data\models\participacion.cs
+++Persona.cs
+i:{ba63cfa2-b09e-44e6-a9c8-4e627f543e5f}:c:\users\family\source\repos\matriculasiglesia-sql-server\matriculasiglesia-sql-server\library.data\models\persona.cs
+++PersonaMayor.cs
+i:{ba63cfa2-b09e-44e6-a9c8-4e627f543e5f}:c:\users\family\source\repos\matriculasiglesia-sql-server\matriculasiglesia-sql-server\library.data\models\personamayor.cs
+++Provincia.cs
+i:{ba63cfa2-b09e-44e6-a9c8-4e627f543e5f}:c:\users\family\source\repos\matriculasiglesia-sql-server\matriculasiglesia-sql-server\library.data\models\provincia.cs
+++Proyecto.cs
+i:{ba63cfa2-b09e-44e6-a9c8-4e627f543e5f}:c:\users\family\source\repos\matriculasiglesia-sql-server\matriculasiglesia-sql-server\library.data\models\proyecto.cs
+++TipoActividad.cs
+i:{ba63cfa2-b09e-44e6-a9c8-4e627f543e5f}:c:\users\family\source\repos\matriculasiglesia-sql-server\matriculasiglesia-sql-server\library.data\models\tipoactividad.cs
+++ModelsConfig
+i:{ba63cfa2-b09e-44e6-a9c8-4e627f543e5f}:c:\users\family\source\repos\matriculasiglesia-sql-server\matriculasiglesia-sql-server\library.data\modelsconfig\
+++Sexo.cs
+i:{ba63cfa2-b09e-44e6-a9c8-4e627f543e5f}:c:\users\family\source\repos\matriculasiglesia-sql-server\matriculasiglesia-sql-server\library.data\enums\sexo.cs
+++20221031160919_initial.cs
+i:{ba63cfa2-b09e-44e6-a9c8-4e627f543e5f}:c:\users\family\source\repos\matriculasiglesia-sql-server\matriculasiglesia-sql-server\library.data\migrations\20221031160919_initial.cs
+++20221031193028_ModifiedHorario.cs
+i:{ba63cfa2-b09e-44e6-a9c8-4e627f543e5f}:c:\users\family\source\repos\matriculasiglesia-sql-server\matriculasiglesia-sql-server\library.data\migrations\20221031193028_modifiedhorario.cs
+++20221101131638_Addededfields.cs
+i:{ba63cfa2-b09e-44e6-a9c8-4e627f543e5f}:c:\users\family\source\repos\matriculasiglesia-sql-server\matriculasiglesia-sql-server\library.data\migrations\20221101131638_addededfields.cs
+++20221101133628_AddedSexo.cs
+i:{ba63cfa2-b09e-44e6-a9c8-4e627f543e5f}:c:\users\family\source\repos\matriculasiglesia-sql-server\matriculasiglesia-sql-server\library.data\migrations\20221101133628_addedsexo.cs
+++20221107134102_PadreNull.cs
+i:{ba63cfa2-b09e-44e6-a9c8-4e627f543e5f}:c:\users\family\source\repos\matriculasiglesia-sql-server\matriculasiglesia-sql-server\library.data\migrations\20221107134102_padrenull.cs
+++20221108213304_CapacidadRequired.cs
+i:{ba63cfa2-b09e-44e6-a9c8-4e627f543e5f}:c:\users\family\source\repos\matriculasiglesia-sql-server\matriculasiglesia-sql-server\library.data\migrations\20221108213304_capacidadrequired.cs
+++20221108213817_updateMunicipioName.cs
+i:{ba63cfa2-b09e-44e6-a9c8-4e627f543e5f}:c:\users\family\source\repos\matriculasiglesia-sql-server\matriculasiglesia-sql-server\library.data\migrations\20221108213817_updatemunicipioname.cs
+++DataContextModelSnapshot.cs
+i:{ba63cfa2-b09e-44e6-a9c8-4e627f543e5f}:c:\users\family\source\repos\matriculasiglesia-sql-server\matriculasiglesia-sql-server\library.data\migrations\datacontextmodelsnapshot.cs
+++BaseDBConfiguracion.cs
+i:{ba63cfa2-b09e-44e6-a9c8-4e627f543e5f}:c:\users\family\source\repos\matriculasiglesia-sql-server\matriculasiglesia-sql-server\library.data\modelsconfig\basedbconfiguracion.cs
+++IglesiaDBConfig.cs
+i:{ba63cfa2-b09e-44e6-a9c8-4e627f543e5f}:c:\users\family\source\repos\matriculasiglesia-sql-server\matriculasiglesia-sql-server\library.data\modelsconfig\iglesiadbconfig.cs
+++MatriculaDBConfig.cs
+i:{ba63cfa2-b09e-44e6-a9c8-4e627f543e5f}:c:\users\family\source\repos\matriculasiglesia-sql-server\matriculasiglesia-sql-server\library.data\modelsconfig\matriculadbconfig.cs
+++ParticipacionDBConfig.cs
+i:{ba63cfa2-b09e-44e6-a9c8-4e627f543e5f}:c:\users\family\source\repos\matriculasiglesia-sql-server\matriculasiglesia-sql-server\library.data\modelsconfig\participaciondbconfig.cs
+++PersonaDBConfig.cs
+i:{ba63cfa2-b09e-44e6-a9c8-4e627f543e5f}:c:\users\family\source\repos\matriculasiglesia-sql-server\matriculasiglesia-sql-server\library.data\modelsconfig\personadbconfig.cs
+++ProyectoDBConfig.cs
+i:{ba63cfa2-b09e-44e6-a9c8-4e627f543e5f}:c:\users\family\source\repos\matriculasiglesia-sql-server\matriculasiglesia-sql-server\library.data\modelsconfig\proyectodbconfig.cs
+++TipoActividadDBConfig.cs
+i:{ba63cfa2-b09e-44e6-a9c8-4e627f543e5f}:c:\users\family\source\repos\matriculasiglesia-sql-server\matriculasiglesia-sql-server\library.data\modelsconfig\tipoactividaddbconfig.cs
+++Microsoft.EntityFrameworkCore (6.0.10)
+i:{ba63cfa2-b09e-44e6-a9c8-4e627f543e5f}:>1221
+++20221031160919_initial.Designer.cs
+i:{ba63cfa2-b09e-44e6-a9c8-4e627f543e5f}:c:\users\family\source\repos\matriculasiglesia-sql-server\matriculasiglesia-sql-server\library.data\migrations\20221031160919_initial.designer.cs
+++20221031193028_ModifiedHorario.Designer.cs
+i:{ba63cfa2-b09e-44e6-a9c8-4e627f543e5f}:c:\users\family\source\repos\matriculasiglesia-sql-server\matriculasiglesia-sql-server\library.data\migrations\20221031193028_modifiedhorario.designer.cs
+++20221101131638_Addededfields.Designer.cs
+i:{ba63cfa2-b09e-44e6-a9c8-4e627f543e5f}:c:\users\family\source\repos\matriculasiglesia-sql-server\matriculasiglesia-sql-server\library.data\migrations\20221101131638_addededfields.designer.cs
+++20221101133628_AddedSexo.Designer.cs
+i:{ba63cfa2-b09e-44e6-a9c8-4e627f543e5f}:c:\users\family\source\repos\matriculasiglesia-sql-server\matriculasiglesia-sql-server\library.data\migrations\20221101133628_addedsexo.designer.cs
+++20221107134102_PadreNull.Designer.cs
+i:{ba63cfa2-b09e-44e6-a9c8-4e627f543e5f}:c:\users\family\source\repos\matriculasiglesia-sql-server\matriculasiglesia-sql-server\library.data\migrations\20221107134102_padrenull.designer.cs
+++20221108213304_CapacidadRequired.Designer.cs
+i:{ba63cfa2-b09e-44e6-a9c8-4e627f543e5f}:c:\users\family\source\repos\matriculasiglesia-sql-server\matriculasiglesia-sql-server\library.data\migrations\20221108213304_capacidadrequired.designer.cs
+++20221108213817_updateMunicipioName.Designer.cs
+i:{ba63cfa2-b09e-44e6-a9c8-4e627f543e5f}:c:\users\family\source\repos\matriculasiglesia-sql-server\matriculasiglesia-sql-server\library.data\migrations\20221108213817_updatemunicipioname.designer.cs
+++Library.Repository
+i:{00000000-0000-0000-0000-000000000000}:Library.Repository
+i:{69c58e0a-4c96-43c2-a7c1-e1742ffb0113}:c:\users\family\source\repos\matriculasiglesia-sql-server\matriculasiglesia-sql-server\library.repository\bin\debug\net6.0\library.repository.dll
+++Interfaces
+i:{822d27b4-34de-4468-903d-6af5186dd7aa}:c:\users\family\source\repos\matriculasiglesia-sql-server\matriculasiglesia-sql-server\library.repository\interfaces\
+i:{69c58e0a-4c96-43c2-a7c1-e1742ffb0113}:c:\users\family\source\repos\matriculasiglesia-sql-server\matriculasiglesia-sql-server\library.service\interfaces\
+++Repositories
+i:{822d27b4-34de-4468-903d-6af5186dd7aa}:c:\users\family\source\repos\matriculasiglesia-sql-server\matriculasiglesia-sql-server\library.repository\repositories\
+++IRepo
+i:{822d27b4-34de-4468-903d-6af5186dd7aa}:c:\users\family\source\repos\matriculasiglesia-sql-server\matriculasiglesia-sql-server\library.repository\interfaces\irepo\
+++IBaseRepository.cs
+i:{822d27b4-34de-4468-903d-6af5186dd7aa}:c:\users\family\source\repos\matriculasiglesia-sql-server\matriculasiglesia-sql-server\library.repository\interfaces\ibaserepository.cs
+++IUnitOfWork.cs
+i:{822d27b4-34de-4468-903d-6af5186dd7aa}:c:\users\family\source\repos\matriculasiglesia-sql-server\matriculasiglesia-sql-server\library.repository\interfaces\iunitofwork.cs
+++Repo
+i:{822d27b4-34de-4468-903d-6af5186dd7aa}:c:\users\family\source\repos\matriculasiglesia-sql-server\matriculasiglesia-sql-server\library.repository\repositories\repo\
+++BaseRepository.cs
+i:{822d27b4-34de-4468-903d-6af5186dd7aa}:c:\users\family\source\repos\matriculasiglesia-sql-server\matriculasiglesia-sql-server\library.repository\repositories\baserepository.cs
+++UnitOfWork.cs
+i:{822d27b4-34de-4468-903d-6af5186dd7aa}:c:\users\family\source\repos\matriculasiglesia-sql-server\matriculasiglesia-sql-server\library.repository\repositories\unitofwork.cs
+++IIglesiaRepository.cs
+i:{822d27b4-34de-4468-903d-6af5186dd7aa}:c:\users\family\source\repos\matriculasiglesia-sql-server\matriculasiglesia-sql-server\library.repository\interfaces\irepo\iiglesiarepository.cs
+++IMatriculaRepository.cs
+i:{822d27b4-34de-4468-903d-6af5186dd7aa}:c:\users\family\source\repos\matriculasiglesia-sql-server\matriculasiglesia-sql-server\library.repository\interfaces\irepo\imatricularepository.cs
+++IProyectoRepository.cs
+i:{822d27b4-34de-4468-903d-6af5186dd7aa}:c:\users\family\source\repos\matriculasiglesia-sql-server\matriculasiglesia-sql-server\library.repository\interfaces\irepo\iproyectorepository.cs
+++IglesiaRepository.cs
+i:{822d27b4-34de-4468-903d-6af5186dd7aa}:c:\users\family\source\repos\matriculasiglesia-sql-server\matriculasiglesia-sql-server\library.repository\repositories\repo\iglesiarepository.cs
+++MatriculaRepository.cs
+i:{822d27b4-34de-4468-903d-6af5186dd7aa}:c:\users\family\source\repos\matriculasiglesia-sql-server\matriculasiglesia-sql-server\library.repository\repositories\repo\matricularepository.cs
+++ProyectoRepository.cs
+i:{822d27b4-34de-4468-903d-6af5186dd7aa}:c:\users\family\source\repos\matriculasiglesia-sql-server\matriculasiglesia-sql-server\library.repository\repositories\repo\proyectorepository.cs
+++Common
+i:{69c58e0a-4c96-43c2-a7c1-e1742ffb0113}:c:\users\family\source\repos\matriculasiglesia-sql-server\matriculasiglesia-sql-server\library.service\common\
+++Enum
+i:{69c58e0a-4c96-43c2-a7c1-e1742ffb0113}:c:\users\family\source\repos\matriculasiglesia-sql-server\matriculasiglesia-sql-server\library.service\enum\
+++Extensions
+i:{69c58e0a-4c96-43c2-a7c1-e1742ffb0113}:c:\users\family\source\repos\matriculasiglesia-sql-server\matriculasiglesia-sql-server\library.service\extensions\
+++Services
+i:{69c58e0a-4c96-43c2-a7c1-e1742ffb0113}:c:\users\family\source\repos\matriculasiglesia-sql-server\matriculasiglesia-sql-server\library.service\services\
+++ReturnBase.cs
+i:{69c58e0a-4c96-43c2-a7c1-e1742ffb0113}:c:\users\family\source\repos\matriculasiglesia-sql-server\matriculasiglesia-sql-server\library.service\common\returnbase.cs
+++Util.cs
+i:{69c58e0a-4c96-43c2-a7c1-e1742ffb0113}:c:\users\family\source\repos\matriculasiglesia-sql-server\matriculasiglesia-sql-server\library.service\common\util.cs
+++MessageEnum.cs
+i:{69c58e0a-4c96-43c2-a7c1-e1742ffb0113}:c:\users\family\source\repos\matriculasiglesia-sql-server\matriculasiglesia-sql-server\library.service\enum\messageenum.cs
+++ModelEnum.cs
+i:{69c58e0a-4c96-43c2-a7c1-e1742ffb0113}:c:\users\family\source\repos\matriculasiglesia-sql-server\matriculasiglesia-sql-server\library.service\enum\modelenum.cs
+++ModelEnumAcademic.cs
+i:{69c58e0a-4c96-43c2-a7c1-e1742ffb0113}:c:\users\family\source\repos\matriculasiglesia-sql-server\matriculasiglesia-sql-server\library.service\enum\modelenumacademic.cs
+++EnumExtension.cs
+i:{69c58e0a-4c96-43c2-a7c1-e1742ffb0113}:c:\users\family\source\repos\matriculasiglesia-sql-server\matriculasiglesia-sql-server\library.service\extensions\enumextension.cs
+++StringExtension.cs
+i:{69c58e0a-4c96-43c2-a7c1-e1742ffb0113}:c:\users\family\source\repos\matriculasiglesia-sql-server\matriculasiglesia-sql-server\library.service\extensions\stringextension.cs
+++ValidatorExtension.cs
+i:{69c58e0a-4c96-43c2-a7c1-e1742ffb0113}:c:\users\family\source\repos\matriculasiglesia-sql-server\matriculasiglesia-sql-server\library.service\extensions\validatorextension.cs
+++IServ
+i:{69c58e0a-4c96-43c2-a7c1-e1742ffb0113}:c:\users\family\source\repos\matriculasiglesia-sql-server\matriculasiglesia-sql-server\library.service\interfaces\iserv\
+++IBaseService.cs
+i:{69c58e0a-4c96-43c2-a7c1-e1742ffb0113}:c:\users\family\source\repos\matriculasiglesia-sql-server\matriculasiglesia-sql-server\library.service\interfaces\ibaseservice.cs
+++Serv
+i:{69c58e0a-4c96-43c2-a7c1-e1742ffb0113}:c:\users\family\source\repos\matriculasiglesia-sql-server\matriculasiglesia-sql-server\library.service\services\serv\
+++BaseService.cs
+i:{69c58e0a-4c96-43c2-a7c1-e1742ffb0113}:c:\users\family\source\repos\matriculasiglesia-sql-server\matriculasiglesia-sql-server\library.service\services\baseservice.cs
+++Microsoft.AspNetCore.Mvc.Core (2.2.5)
+i:{69c58e0a-4c96-43c2-a7c1-e1742ffb0113}:>1202
+++Microsoft.AspNetCore.NodeServices (3.1.29)
+i:{69c58e0a-4c96-43c2-a7c1-e1742ffb0113}:>1204
+++Newtonsoft.Json (13.0.1)
+i:{69c58e0a-4c96-43c2-a7c1-e1742ffb0113}:>1200
+++IIglesiaService.cs
+i:{69c58e0a-4c96-43c2-a7c1-e1742ffb0113}:c:\users\family\source\repos\matriculasiglesia-sql-server\matriculasiglesia-sql-server\library.service\interfaces\iserv\iiglesiaservice.cs
+++IglesiaService.cs
+i:{69c58e0a-4c96-43c2-a7c1-e1742ffb0113}:c:\users\family\source\repos\matriculasiglesia-sql-server\matriculasiglesia-sql-server\library.service\services\serv\iglesiaservice.cs
+++Swashbuckle.AspNetCore (6.3.0)
+i:{94f15be5-a07d-4b46-9b18-c2aff5b41f80}:>1236
+++AutoMapper (11.0.1)
+i:{94f15be5-a07d-4b46-9b18-c2aff5b41f80}:>1237
